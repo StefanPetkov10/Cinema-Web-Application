@@ -17,9 +17,3 @@ CinemaApp is a web application designed to manage cinemas and provide users with
 - **Frontend:** Razor Views (HTML, CSS, JavaScript)  
 - **Database:** SQL Server  
 - **Authentication:** ASP.NET Identity  
-
-## Setup Instructions  
-1. **Clone the Repository:**  
-   ```bash  
-   git clone https://github.com/your-repo/CinemaApp.git  
-   cd CinemaApp  
